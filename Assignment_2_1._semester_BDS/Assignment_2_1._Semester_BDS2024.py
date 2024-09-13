@@ -1,4 +1,5 @@
 # Link to huggingface display: https://mathiasbds-assignment-2-1-semester.hf.space
+# Link to recording: https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=9da78ec4-633b-4258-88de-b1ea00bd9ba5
 # Import necessary libraries
 import streamlit as st
 import pandas as pd
