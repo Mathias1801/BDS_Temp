@@ -1,0 +1,6 @@
+altair
+seaborn
+pandas
+matplotlib
+plotly
+pycountry
