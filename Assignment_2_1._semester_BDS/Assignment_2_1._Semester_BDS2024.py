@@ -1,6 +1,6 @@
 # Link to huggingface display: https://mathiasbds-assignment-2-1-semester.hf.space
 # Link to recording: https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=9da78ec4-633b-4258-88de-b1ea00bd9ba5
-# Link to dataset: https://github.com/aaubs/ds-master/blob/main/data/assignments_datasets/GEM/GEM%202020%20APS%20Global%20Individual%20Level%20Data_Jan2022.parquet
+# Link to data: https://github.com/aaubs/ds-master/blob/main/data/assignments_datasets/GEM/GEM%202020%20APS%20Global%20Individual%20Level%20Data_Jan2022.parquet
 
 # Import necessary libraries
 import streamlit as st
